@@ -1,0 +1,6 @@
+{
+  "name": "rest server",
+  "scripts": {
+    "start": "json-server --host 127.0.0.1 db.json"
+  }
+}

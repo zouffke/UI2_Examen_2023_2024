@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+  <string name="loading_failed">Failed to load</string>
+  <string name="restart">Try again</string>
+  <string name="loading">Loading</string>
+  <string name="next">Next\n</string>
+    <string name="you_scored">You scored</string>
+    <string name="points_out_of">point(s) out of</string>
+  <string name="try_again">Try again</string>
+</resources>

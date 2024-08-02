@@ -1,0 +1,38 @@
+{
+  "questions": [
+      {
+        "id" : "1",
+        "text": "Wat is de Kotlin manier om een duplicaat van een object van een data klasse te maken?",
+        "options": [
+          "clone()",
+          "copy()",
+          "mapstruct",
+          "roep de constructor aan met het origineel als parameter"
+        ],
+        "correct-answer": 1
+      },
+      {
+        "id" : "2",
+        "text": "Wat is een Sealed klasse?",
+        "options": [
+          "Een klasse die niet aangepast kan worden.",
+          "Een klasse die geen subklassen kan hebben.",
+          "Een klasse die enkel subklassen kan hebben die samen gecompileerd zijn.",
+          "Een klasse waarvan alle members private zijn."
+        ],
+        "correct-answer": 2
+      },
+      {
+        "id" : "3",
+        "text": "Hoe specificeer je in dagger dependencies tussen twee implementaties A en B in een @Module?",
+        "options": [
+          "@Autowire B in A",
+          "@Inject B in A",
+          "Definieer B als subklasse van A",
+          "Maak voor beiden een @Provides functie. Geef een parameter van type A door in de @Provides functie voor B"
+        ],
+        "correct-answer": 3
+      }
+    ]
+}
+	
